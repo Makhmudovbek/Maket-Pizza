@@ -1,0 +1,176 @@
+@media screen and (min-width:0px)and (max-width:500px) {
+    .main{
+        width: 400px;
+        height: 10000px;
+    }
+    .card{
+        width: 400px;
+        height: 1500px;
+        background-image: url(img/image\ 1.png);
+        background-size: 400px;
+    }
+    .card_icon1{
+        top: 10px;
+        left:10px;
+    }
+    .card_menyu{
+        width: 100px;
+        top: 80px;
+        left:10px;
+    }
+    .card_figure{
+        width:80px;
+        left: 280px;
+        top: 10px;
+        flex-wrap: wrap;
+    }
+    .card_title{
+        width: 380px;
+        left: 10px;
+        top: 300px;
+    }
+    .card_icon5{
+        top:380px;
+        left:250px;
+    }
+    .card_text{
+        left: 10px;
+        top: 528px;
+    }
+    .card_link{
+        left: 10px;
+        top: 651px;
+    }
+    .card_pizza{
+        width: 400px;
+        top: 800px;
+        left: 10px;
+    }
+    .pizza_img img{
+        width: 350px;
+    }
+    .pizza_figure1{
+        width: 100px;    
+        top: 210px;
+        left: 80px;
+    }
+    .pizza_figure2{
+        top: 171px;
+        left: 89px;
+    }
+    .pizza_figure3{
+        width: 100px;
+        top:245px;
+        left: 164px;
+    }
+    .pizza_text1{
+        width: 306px;
+        position: absolute;
+        top: 250px;
+        left: 10px;
+    }
+    .pizza_text2{
+        width: 123px;
+        position: absolute;
+        top: 330px;
+        left: 10px;    
+    }
+    .card_figura2{
+        width: 100px;
+        top:1250px;
+        left:10px;
+        flex-wrap: wrap;
+    }
+    .list{
+        width: 400px;
+        height: 7000px;
+        flex-wrap: wrap;
+    }
+    .list_item1{
+        width: 400px;
+        height: 0px;
+    }
+    .item1_title h1{
+        left: 10px;
+        top: 50px;
+    }
+    .item1_menyu{
+        width:100px;
+        height: 200px;
+        left:10px;
+    }
+    .list_item2{
+        width: 400px;
+        height: 2000px;
+    }
+    .list_item2_2{
+        width: 400px;
+        height: 2000px;
+    }
+    .item3_subtitle h2{
+        left: 120px;
+        top: 150px;
+    }
+    .copy_text{
+        width: 400px;
+        height: 1200px;
+        left: 10px;
+        top: 300px;
+    }
+    .list_item4 img{
+        width: 400px;
+        left: 10px;
+        top: 630px;
+    }
+
+    .tabs{
+        width: 400px;
+        height: 1800px;
+        background-image: url(img/image\ 3.png);
+        background-size: 400px;
+    }
+    .tabs_title h1{
+        top: 158px;
+        left: 10px;
+    }
+    .tabs_list{
+        width: 400px;
+        height: 1200px;
+        top: 346px;
+    }
+    .list_item{
+        width: 400px;
+    }
+    .item_icon{
+        left: 170px;
+    }
+    .item_subtitle h2{
+        top: 110px;
+        left: 80px;
+    }
+    .item_text p{
+        left: 40px;
+        top: 202px;
+    }
+    .tabs_subtitle h2{
+        top: 1600px;
+        left: 10px;
+    }
+
+    .bottom{
+        width: 400px;
+        height: 600px;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+    }
+    .lokimg{
+        width: 400px;
+    }
+    .bot_right{
+        width: 400px;
+        height: 462px;
+        background: #E85F0F;    
+        position: relative;
+    }
+}
